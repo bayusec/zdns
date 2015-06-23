@@ -9,7 +9,7 @@ pip install dnspython
 
 USAGE:
 
-USAGE: $ python zdns.py words.txt output.txt domain.com
+$ python zdns.py words.txt output.txt domain.com
 
 
 
