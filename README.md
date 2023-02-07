@@ -10,7 +10,3 @@ pip install dnspython
 USAGE:
 
 $ python zdns.py words.txt output.txt domain.com
-
-
-
-
