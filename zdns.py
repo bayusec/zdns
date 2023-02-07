@@ -1,4 +1,4 @@
-__author__ = 'secbrain'
+__author__ = 'bayusec'
 import dns.resolver
 import sys
 
